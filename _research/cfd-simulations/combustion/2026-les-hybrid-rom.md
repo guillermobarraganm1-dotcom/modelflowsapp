@@ -57,6 +57,6 @@ Additionally, the predicted temperature and H2O mass fraction are compared with 
 ![Figure text](https://github.com/modelflows/modelflowsapp/blob/master/assets/img/JHC_Prediction-curves.png?raw=true)
 
 ## Related Publications <a id="pub"></a>
-Zou, X., Abadia-Heredia, R., Saavedra, L., Parente, A., Xue, R., & Clainche, S. L. (2025). Generative artificial intelligence and hybrid models to accelerate LES in reactive flows: Application to hydrogen/methane combustion. arXiv preprint arXiv:2507.08426.(https://doi.org/10.48550/arXiv.2507.08426)
+[*Zou, X., Abadia-Heredia, R., Saavedra, L., Parente, A., Xue, R., & Clainche, S. L. (2025). Generative artificial intelligence and hybrid models to accelerate LES in reactive flows: Application to hydrogen/methane combustion. arXiv preprint arXiv:2507.08426.*](https://doi.org/10.48550/arXiv.2507.08426)
 
-Zou, X., Parente, A., & Le Clainche, S. (2026). Divergence detection and flow structure analysis in POD-DL predictions of a hydrogen-methane flame. European Journal of Mechanics-B/Fluids, 204515. (https://doi.org/10.1016/j.euromechflu.2026.204515)
+[*Zou, X., Parente, A., & Le Clainche, S. (2026). Divergence detection and flow structure analysis in POD-DL predictions of a hydrogen-methane flame. European Journal of Mechanics-B/Fluids, 204515.*](https://doi.org/10.1016/j.euromechflu.2026.204515)
